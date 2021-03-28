@@ -11,7 +11,7 @@ This is a bomberman copy game i've made for fun. It never was finished, so the g
 
 ![Alt Text](https://i.ibb.co/mJpg3mB/image.png)
 
-**Controlls**
+**Controlls**</br>
 Player 1 Standard WASD movement Keys. Laying bomb with **Q**</br>
 Player 2 Arrow Keys. Laying Bomb with **Space**.
 
